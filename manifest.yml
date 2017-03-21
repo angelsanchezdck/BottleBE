@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 1024M
+  instances: 1
+  domain: mybluemix.net
+  name: BottleBackEnd
+  host: BottleBackEnd
+  disk_quota: 1024M
